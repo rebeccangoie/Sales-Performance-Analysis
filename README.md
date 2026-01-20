@@ -5,11 +5,11 @@ This project analyzes a retail sales dataset to understand sales distribution ac
 Key fields used in the analysis include: Order Date, Sales, Category, Region
 
 # Key Steps
-Inspected the dataset to understand structure and data types
-Converted date columns and validated data quality
-Identified and handled missing values in critical fields
-Aggregated sales by product category and region
-Visualized results using bar charts to highlight performance differences
+Inspected the dataset to understand structure and data types.
+Converted date columns and validated data quality.
+Identified and handled missing values in critical fields.
+Aggregated sales by product category and region.
+Visualized results using bar charts to highlight performance differences.
 
 # Key Insights
 Sales are unevenly distributed across product categories, with certain categories contributing a disproportionately large share of total revenue.
